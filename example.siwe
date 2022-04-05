@@ -1,0 +1,16 @@
+example.org wants you to sign in with your Ethereum account:
+0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+
+Sign into this example service
+
+URI: https://example.org/login
+Version: 1
+Chain ID: 1
+Nonce: ySi4I5P9JkivxfRNn5
+Issued At: 2022-04-05T13:25:18Z
+Expiration Time: 2023-04-05T13:25:18Z
+Request ID: urn:uuid:f90d783b-7a9f-4347-9931-dd2d02fb5cfe
+
+Resources:
+- https://example.org/service/foo
+- did:example:12983719387129381039
